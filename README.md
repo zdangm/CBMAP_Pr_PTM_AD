@@ -1,4 +1,4 @@
-# A Human Brain Proteomic and PTM Atlas for Early Alzheimer’s Disease
+## A Human Brain Proteomic and PTM Atlas for Early Alzheimer’s Disease
 
 This repository accompanies the study “A Human Brain Proteomic and Modification Atlas for Early Alzheimer’s Disease”, developed within the framework of the China Brain Multi-omics Atlas Project (CBMAP).
 
